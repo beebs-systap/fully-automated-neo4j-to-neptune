@@ -1,7 +1,7 @@
 # Overview
 
 This AWS CDK app helps you migrate the simple Neo4j movies graph database to
-Amazon Neptune in a hands-free, fully-automated way
+Amazon Neptune in a hands-free, fully automated way.
 
 # Architecture
 
